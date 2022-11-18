@@ -1,2 +1,2 @@
-# AwsomeRobotics
-Awsome Robotics Technology.
+# AwesomeRobotics
+Awesome Robotics Technology.
